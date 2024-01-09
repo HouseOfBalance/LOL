@@ -1,5 +1,4 @@
 getgenv().Config = {
-    ["John Team"] = "Pirates",
     ["Auto_Farm_Level"] = true,
     ["Double_Quest"] = true,
     ["Auto_Saber"] = true,
